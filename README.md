@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 I am a Galician programmer who loves to learn new things and to collaborate with other people.
 
 🌱 Now I am learning Kotlin and I am improving my Java knowledges.
+
 💬 Ask what you want to know about me.
 
 ### Some technologies I use:
