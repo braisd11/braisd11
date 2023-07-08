@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Know something more about me in [LinkedIn](www.linkedin.com/in/brais-díaz-rodríguez-2105471b7)
 
-Contact me by my email braisdiaz97@gmail.com
+📫 Contact me by my email braisdiaz97@gmail.com
 
 
 
