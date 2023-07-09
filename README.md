@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 📫 Contact me by my email braisdiaz97@gmail.com
 
-📲 +34 699 17 83 72
+📲 Or send me a Whatsapp if you prefer
+
++34 699 17 83 72
 
 
 ### About me:
