@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### You can find me:
 
-📲 Know something more about me in [LinkedIn](www.linkedin.com/in/brais-díaz-rodríguez-2105471b7)
+💻 Know something more about me in [LinkedIn](www.linkedin.com/in/brais-díaz-rodríguez-2105471b7)
 
 📫 Contact me by my email braisdiaz97@gmail.com
 
-
+📲 +34 699 17 83 72
 
 
 ### About me:
