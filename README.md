@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 I am a Galician programmer who loves learning new things and collaborating with other people.
 
-🌱 Now I am learning Kotlin,Python and I am improving my Java knowledges.
+🌱 Now I am learning **Kotlin,Python** and I am improving my **Java** knowledges.
 
 💬 Ask what you want to know about me.
 
