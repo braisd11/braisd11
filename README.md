@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### You can find me:
 
-💻 Know something more about me in [LinkedIn](www.linkedin.com/in/brais-díaz-rodríguez-2105471b7)
+💻 Know something more about me in  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brais-díaz-rodríguez-2105471b7)
 
 📫 Contact me by my email braisdiaz97@gmail.com
 
@@ -26,23 +26,27 @@ Here are some ideas to get you started:
 
 ### About me:
 
-I am a Galician programmer who loves learning new things and collaborating with other people.
+- I am a Galician programmer who loves learning new things and collaborating with other people.
 
-🌱 Now I am learning **Python** and I am improving my **Java** knowledges.
+- I studied Physical aActivity and Sports Sciences.
 
-💬 Ask what you want to know about me.
+- I started programming because I love new technologies and I discover this world.
+
+- Now I am always learning new programming languages and new technologies to improve my knowledges.
 
 
 
 
 ### 💻 Some technologies I use:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
-### ⚒️ My Projects:
-
-Coming soon... 😅
-
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+</br>
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+</br>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+</br>
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
